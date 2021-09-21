@@ -5,11 +5,11 @@ Built with IntelliJ using JDK16.
 
 ## Struktura mreže
 
-- Discovery cvor registrira i odrzava informacije o listi (peer) cvorova u mrezi
+- Discovery čvor registrira i održava informacije o listi (peer) čvorova u mreži
 
-- svaki Peer Node (peer cvor) ima finger tablicu za ucinkovitije slanje po mrezi
+- svaki Peer Node (peer čvor) ima finger tablicu za učinkovitije slanje po mreži
 
-- Storage osigurava da se podaci spremaju u tocni node u mrezi
+- Storage osigurava da se podaci spremaju u točni node u mreži
 
 ## Pokretanje
 >pokrenuti main funkciju u src/project_package/ConsoleApplicationRunner.java iz terminala ili IDE-a
