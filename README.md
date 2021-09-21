@@ -3,7 +3,7 @@ A p2p application using Chord DHT algorithm.
 
 Built with IntelliJ using JDK16.
 
-## Components
+## Struktura mreže
 
 - Discovery cvor registrira i odrzava informacije o listi (peer) cvorova u mrezi
 
